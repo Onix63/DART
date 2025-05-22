@@ -1,5 +1,5 @@
-List<String>nombre = [];
+List<String>nombrejuan = [];
 
 void main() {
-  print(nombre);
+  print(nombrejuan);
 } 
